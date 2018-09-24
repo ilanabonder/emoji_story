@@ -1,0 +1,1360 @@
+[{
+		"char": "😀",
+		"keywords": "happy, smile, wow, big smile"
+	},
+	{
+		"char": "😁",
+		"keywords": "agree, agreed"
+	},
+	{
+		"char": "😂",
+		"keywords": "funny, laughing, laugh, hahaha, laughed"
+	},
+	{
+		"char": "😅",
+		"keywords": "sweat, oops, risk, risky, tried, trying, try, sweated"
+	},
+	{
+		"char": "😆",
+		"keywords": "fun, emotioned, emotion, feeling, like, felt, feel"
+	},
+	{
+		"char": "😉",
+		"keywords": "wink, flirty, wassup, blink, winking, blinking, winked, blinked, flirtying, flirted"
+	},
+	{
+		"char": "😊",
+		"keywords": "blushed, yes, thanks"
+	},
+	{
+		"char": "😋",
+		"keywords": "delicious, food, yummy, tasted, taste, thong, eat, ate"
+	},
+	{
+		"char": "😎",
+		"keywords": "cool, eyewear, sunglasses, boss"
+	},
+	{
+		"char": "😍",
+		"keywords": "love, in love, loved, loving, crush"
+	},
+	{
+		"char": "😘",
+		"keywords": "kiss, kissing, kissed"
+	},
+	{
+		"char": "🙂",
+		"keywords": "ok"
+	},
+	{
+		"char": "🤗",
+		"keywords": "hug, cute, cuteness"
+	},
+	{
+		"char": "🤔",
+		"keywords": "think, don't, thinking"
+	},
+	{
+		"char": "😐",
+		"keywords": "weird"
+	},
+	{
+		"char": "😑",
+		"keywords": "whatever"
+	},
+	{
+		"char": "😶",
+		"keywords": "quiet"
+	},
+	{
+		"char": "😏",
+		"keywords": "sassy, mistery, see"
+	},
+	{
+		"char": "😣",
+		"keywords": "hurt, pain, hutting"
+	},
+	{
+		"char": "😥",
+		"keywords": "disappointed, sad"
+	},
+	{
+		"char": "😮",
+		"keywords": "what, surprised"
+	},
+	{
+		"char": "🤐",
+		"keywords": "secret"
+	},
+	{
+		"char": "😫",
+		"keywords": "hate, hated"
+	},
+	{
+		"char": "😴",
+		"keywords": "sleep, sleeping, asleep, slept, zzz"
+	},
+	{
+		"char": "😌",
+		"keywords": "relieved, relief, finally"
+	},
+	{
+		"char": "😛",
+		"keywords": "naughty, lick"
+	},
+	{
+		"char": "😜",
+		"keywords": "crazy, joke"
+	},
+	{
+		"char": "😒",
+		"keywords": "whatever, don't care"
+	},
+	{
+		"char": "😢",
+		"keywords": "sad, tear, teared"
+	},
+	{
+		"char": "😭",
+		"keywords": "sobbing, crying, cry, cryied"
+	},
+	{
+		"char": "😧",
+		"keywords": "fear, fearing"
+	},
+	{
+		"char": "🤯",
+		"keywords": "stressed, exploding, stress, stressing"
+	},
+	{
+		"char": "😳",
+		"keywords": "chocked, chocking"
+	},
+	{
+		"char": "😡",
+		"keywords": "angry, mad, hate"
+	},
+	{
+		"char": "🤬",
+		"keywords": "swearing,cursing, fuck, bitch"
+	},
+	{
+		"char": "😷",
+		"keywords": "sick, sickness, disease"
+	},
+	{
+		"char": "🤮",
+		"keywords": "vomit, disgusting, nausea, vomiting, vomitted"
+	},
+	{
+		"char": "🤧",
+		"keywords": "sneeze, sneezing, flu"
+	},
+	{
+		"char": "😇",
+		"keywords": "angel, saint, innocent"
+	},
+	{
+		"char": "🤓",
+		"keywords": "geek, nerd, nerdy, study, geeky"
+	},
+	{
+		"char": "😈",
+		"keywords": "revenge"
+	},
+	{
+		"char": "🤡",
+		"keywords": "clown, face"
+	},
+	{
+		"char": "💀",
+		"keywords": "skull, dead, death"
+	},
+	{
+		"char": "👻",
+		"keywords": "ghost, halloween"
+	},
+	{
+		"char": "👽",
+		"name": "alien",
+		"keywords": "alien, et, ufo"
+	},
+	{
+		"char": "👾",
+		"keywords": "gaming, videogame"
+	},
+	{
+		"char": "🤖",
+		"keywords": "robot"
+	},
+	{
+		"char": "💩",
+		"keywords": "poop, pooped, shit"
+	},
+	{
+		"char": "😻",
+		"keywords": "hottie, hot"
+	},
+	{
+		"char": "🙈",
+		"keywords": "embarassed"
+	},
+	{
+		"char": "👶",
+		"keywords": "baby, babies"
+	},
+	{
+		"char": "🧒",
+		"keywords": "kid, child, kids"
+	},
+	{
+		"char": "👦",
+		"keywords": "boy"
+	},
+	{
+		"char": "👧",
+		"keywords": "girl"
+	},
+	{
+		"char": "👨",
+		"keywords": "man, dad, daddy, father"
+	},
+	{
+		"char": "👴",
+		"keywords": "gandpa, grandfather "
+	},
+	{
+		"char": "👵",
+		"keywords": "granma, grandmother"
+	},
+	{
+		"char": "👨‍⚕️",
+		"keywords": "doctor"
+	},
+	{
+		"char": "👩‍⚕️",
+		"keywords": "doctor"
+	},
+	{
+		"char": "👨‍🎓",
+		"keywords": "student, graduate, university"
+	},
+	{
+		"char": "👩‍🎓",
+		"keywords": "student, graduate, university"
+	},
+	{
+		"char": "👨‍🏫",
+		"keywords": "teacher, professor"
+	},
+	{
+		"char": "👩‍⚖️",
+		"keywords": "judge, lawyer"
+	},
+	{
+		"char": "👨‍🌾",
+		"keywords": "farmer, farm, ranch"
+	},
+	{
+		"char": "👩‍🍳",
+		"keywords": "chef, cook, cooking"
+	},
+	{
+		"char": "👨‍🔧",
+		"keywords": "electrician, mechanic, fix, fixed"
+	},
+	{
+		"no": 141,
+		"codes": "1F469 200D 1F4BC",
+		"char": "👩‍💼",
+		"keywords": "architect, business, manager"
+	},
+	{
+		"char": "👨‍🔬",
+		"keywords": "biologist, chemist, engineer"
+	},
+	{
+		"char": "👩‍💻",
+		"keywords": "coder, developer, inventor, software, technologist, coding, designing, designer"
+	},
+	{
+		"char": "👨‍🎤",
+		"keywords": "bowie, rocksta"
+	},
+	{
+		"char": "👩‍🚀",
+		"keywords": "astronaut, space"
+	},
+	{
+		"char": "👮",
+		"keywords": "cop, officer, policeman"
+	},
+	{
+		"char": "🤴",
+		"keywords": "prince"
+	},
+	{
+
+		"char": "👸",
+		"keywords": "princess"
+	},
+	{
+		"char": "🤵",
+		"keywords": "engaged,groom, wedding, ball"
+	},
+	{
+		"char": "👰",
+		"keywords": "engaged,bride, wedding"
+	},
+	{
+		"char": "🤰",
+		"keywords": "pregnant"
+	},
+	{
+		"char": "🎅",
+		"keywords": "Christmas, claus, santa"
+	},
+	{
+		"char": "🧙",
+		"keywords": "mage, witch, wizard"
+	},
+	{
+		"char": "🧞",
+		"keywords": "genie, genius"
+	},
+	{
+		"char": "🙅",
+		"keywords": "forbidden, enough, prohibited"
+	},
+	{
+		"char": "💁",
+		"keywords": "this"
+	},
+	{
+		"char": "🤦",
+		"keywords": "fucked"
+	},
+	{
+		"char": "💆",
+		"keywords": "relax, massage, spa"
+	},
+	{
+		"char": "💇",
+		"keywords": "haircut, hairdresser"
+	},
+	{
+		"char": "🚶",
+		"keywords": "walk, walking"
+	},
+	{
+		"char": "🏃",
+		"keywords": "run, marathon, running"
+	},
+	{
+		"char": "💃",
+		"keywords": "dancing, party, dance"
+	},
+	{
+		"char": "👯",
+		"keywords": "friends"
+	},
+	{
+		"char": "🧗",
+		"keywords": "climb, climber"
+	},
+	{
+		"no": 269,
+		"codes": "1F9D7 200D 2640 FE0F",
+		"char": "🧗‍♀️",
+		"name": "woman climbing",
+		"keywords": "climber | woman climbing"
+	},
+	{
+		"char": "🧘",
+		"keywords": "meditation, meditate, yoga, yogi, meditated"
+	},
+	{
+		"char": "🛀",
+		"keywords": "bath, bathtub"
+	},
+	{
+		"char": "⛷",
+		"keywords": "ski, skiyng, snowboard"
+	},
+	{
+		"char": "🏄",
+		"keywords": "surfing, surf, surfboard"
+	},
+
+	{
+		"char": "👈",
+		"keywords": "left"
+	},
+	{
+		"char": "👉",
+		"keywords": "right"
+	},
+	{
+		"char": "👆",
+		"keywords": "up"
+	},
+	{
+		"char": "👇",
+		"keywords": "down, point"
+	},
+	{
+		"char": "🤞",
+		"keywords": "crossed"
+	},
+	{
+		"char": "🤘",
+		"keywords": "rock'n'roll, rock"
+	},
+	{
+		"char": "✋",
+		"keywords": "stop"
+	},
+	{
+		"char": "👌",
+		"keywords": "ok"
+	},
+	{
+		"char": "👍",
+		"keywords": "positive, agree, yes"
+	},
+	{
+		"char": "👎",
+		"keywords": "no, disagree, negative"
+	},
+	{
+		"char": "👊",
+		"keywords": "punch"
+	},
+	{
+		"char": "👋",
+		"keywords": "bye, hi, hello, goodbye, waving"
+	},
+	{
+		"char": "👏",
+		"keywords": "congratulations, congrats, proud"
+	},
+	{
+		"char": "🙌",
+		"keywords": "relief, finally, amen"
+	},
+	{
+		"char": "🙏",
+		"keywords": "thanks, thank, blessed, pray"
+	},
+	{
+		"char": "👂",
+		"keywords": "ear, hear, heard, listen"
+	},
+	{
+		"char": "👃",
+		"keywords": "nose, smell, smelly"
+	},
+	{
+		"char": "👀",
+		"keywords": "eyes, looking, searching, look"
+	},
+	{
+		"char": "🧠",
+		"keywords": "brain, smart, intelligent"
+	},
+	{
+		"char": "👙",
+		"keywords": "bikini"
+	},
+	{
+		"char": "🎒",
+		"keywords": "backpack , packing, school"
+	},
+	{
+		"char": "👑",
+		"keywords": "crown, king, queen, royal"
+	},
+	{
+		"char": "💎",
+		"keywords": "diamond, fancy, rich, expensive"
+	},
+	{
+		"char": "🐵",
+		"keywords": "monkey, monkeys"
+	},
+	{
+		"char": "🐶",
+		"keywords": "dog, dogs, pet"
+	},
+	{
+		"char": "🐺",
+		"keywords": "wolf, wolves"
+	},
+	{
+		"char": "🦊",
+		"keywords": "fox, foxes"
+	},
+	{
+		"char": "🐱",
+		"keywords": "cat, kittie, cats, pet"
+	},
+	{
+		"char": "🦁",
+		"keywords": "lion, lions"
+	},
+	{
+		"char": "🐯",
+		"keywords": "tiger, tigers"
+	},
+	{
+		"char": "🐴",
+		"keywords": "horse, horses, pony"
+	},
+	{
+		"char": "🦄",
+		"keywords": "unicorn, unicorns"
+	},
+	{
+		"char": "🐮",
+		"keywords": "cow, cows"
+	},
+	{
+		"char": "🐷",
+		"keywords": "pig, pigs"
+	},
+	{
+		"char": "🐭",
+		"keywords": "mouses, mouse, rat, rats, hamster, hamsters"
+	},
+	{
+		"char": "🐰",
+		"keywords": "bunny, pet, bunnies, easter"
+	},
+	{
+		"char": "🐿",
+		"keywords": "chipmunk, squirrel, squirrels, new york"
+	},
+	{
+		"char": "🦔",
+		"keywords": "hedgehog, hedgehogs"
+	},
+	{
+		"char": "🐻",
+		"keywords": "bear, bears"
+	},
+	{
+		"char": "🐨",
+		"keywords": "koala, koalas"
+	},
+	{
+		"char": "🐼",
+		"keywords": "panda, pandas"
+	},
+	{
+		"char": "🦃",
+		"keywords": "turkey, turkeys, thanksgiving"
+	},
+	{
+		"char": "🐔",
+		"keywords": "chicken, chickens"
+	},
+	{
+		"char": "🐥",
+		"keywords": "chick, chicks"
+	},
+	{
+		"char": "🐦",
+		"keywords": "bird, birds"
+	},
+	{
+		"char": "🐧",
+		"keywords": "penguins, penguin"
+	},
+	{
+		"char": "🕊",
+		"keywords": "dove, peace, doves"
+	},
+	{
+		"char": "🦆",
+		"keywords": "ducks, duck"
+	},
+	{
+		"char": "🐛",
+		"keywords": "bugs, bug, insect, insects"
+	},
+	{
+		"char": "🌸",
+		"keywords": "blossom, flower, flowers, spring, Spring"
+	},
+	{
+		"char": "🌹",
+		"keywords": "rose, roses, romantic, romance"
+	},
+	{
+		"char": "🌻",
+		"keywords": "sunflower"
+	},
+	{
+		"char": "🌱",
+		"keywords": "seedling, seed, grow, growing"
+	},
+	{
+		"char": "🌳",
+		"keywords": "tree, trees"
+	},
+	{
+		"char": "🌴",
+		"keywords": "palm, beach"
+	},
+	{
+		"char": "🌵",
+		"keywords": "cactus, desert"
+	},
+	{
+		"char": "🍀",
+		"keywords": "clover, luck, patrick's, lucky"
+	},
+	{
+		"char": "🍂",
+		"keywords": "Autumn, autumn"
+	},
+	{
+		"char": "🍇",
+		"keywords": "grape, grapes"
+	},
+	{
+		"char": "🍉",
+		"keywords": "watermelon, watermelons"
+	},
+	{
+		"char": "🍊",
+		"keywords": "orange, oranges, tangerine, tangerines, fruit"
+	},
+	{
+		"char": "🍋",
+		"keywords": "citrus, lemon, lemons"
+	},
+	{
+		"char": "🍌",
+		"keywords": "banana, bananas"
+	},
+	{
+		"char": "🍍",
+		"keywords": "pineapple, pineapples"
+	},
+	{
+		"char": "🍎",
+		"keywords": "apple, apples"
+	},
+	{
+		"char": "🍐",
+		"keywords": "pears, pear"
+	},
+	{
+		"char": "🍑",
+		"keywords": "peach, peaches, butt, ass"
+	},
+	{
+
+		"char": "🍒",
+		"keywords": "berries, cherry, cherries"
+	},
+	{
+		"char": "🍓",
+		"keywords": "strawberry, strawberries"
+	},
+	{
+		"char": "🥝",
+		"keywords": "kiwi, kiwis"
+	},
+	{
+		"char": "🍅",
+		"keywords": "tomato, tomatoes"
+	},
+	{
+		"char": "🥥",
+		"keywords": "coconut"
+	},
+	{
+		"char": "🥑",
+		"keywords": "avocado, avocados"
+	},
+	{
+		"char": "🍆",
+		"keywords": "eggplant, eggplants"
+	},
+	{
+		"char": "🥔",
+		"keywords": "potato, potatoes"
+	},
+	{
+		"char": "🥕",
+		"keywords": "carrot, carrots"
+	},
+	{
+		"char": "🌽",
+		"keywords": "corn"
+	},
+	{
+		"char": "🌶",
+		"keywords": "spicy, pepper"
+	},
+	{
+		"char": "🥐",
+		"keywords": "croissant, pastry"
+	},
+	{
+		"char": "🥖",
+		"keywords": "baguette , bread"
+	},
+	{
+		"char": "🥨",
+		"keywords": "pretzel, pretzels"
+	},
+	{
+		"char": "🥞",
+		"keywords": "crêpe, pancake, pancakes"
+	},
+	{
+		"char": "🧀",
+		"keywords": "cheese, cheeses"
+	},
+	{
+		"char": "🍗",
+		"keywords": "drumstick, kfc, nuggets"
+	},
+	{
+		"char": "🥩",
+		"keywords": "chop, meat, lambchop, steak, barbecue"
+	},
+	{
+		"char": "🥓",
+		"keywords": "bacon"
+	},
+	{
+		"char": "🍔",
+		"keywords": "burger, hamburger, cheeseburguer, mcdonald's"
+	},
+	{
+		"char": "🍟",
+		"keywords": "fries"
+	},
+	{
+		"char": "🍕",
+		"keywords": "pizza, pizzas"
+	},
+	{
+		"char": "🥪",
+		"keywords": "sandwich, sandwiches"
+	},
+	{
+		"char": "🌮",
+		"keywords": "mexican, taco, tacos"
+	},
+	{
+		"char": "🌯",
+		"keywords": "burrito, wrap"
+	},
+	{
+		"char": "🥙",
+		"keywords": "falafel, kebab"
+	},
+	{
+		"char": "🍳",
+		"keywords": "eggs, egg, pan"
+	},
+	{
+		"char": "🥗",
+		"keywords": "salad, salads, greens"
+	},
+	{
+		"char": "🍿",
+		"keywords": "popcorn, movies"
+	},
+	{
+		"char": "🍚",
+		"keywords": "rice"
+	},
+	{
+		"char": "🍜",
+		"keywords": "noodle, noodles, ramen"
+	},
+	{
+		"char": "🍝",
+		"keywords": "pasta, spaghetti, italian"
+	},
+	{
+		"char": "🍣",
+		"keywords": "sushi, sushis, salmon, tuna, japanese"
+	},
+	{
+		"char": "🥟",
+		"keywords": "dumpling, dumplings, empanada, empanadas"
+	},
+	{
+		"char": "🍦",
+		"keywords": "cream, dessert, icecream"
+	},
+	{
+		"char": "🍩",
+		"keywords": "donut, donuts, doughnut"
+	},
+	{
+		"char": "🍪",
+		"keywords": "cookie, cookies"
+	},
+	{
+		"char": "🎂",
+		"keywords": "birthday"
+	},
+	{
+		"char": "🍰",
+		"keywords": "cake, dessert, slice"
+	},
+	{
+		"char": "🍫",
+		"keywords": "chocolate"
+	},
+	{
+		"char": "🍬",
+		"keywords": "candy, sweet"
+	},
+	{
+		"char": "🍭",
+		"keywords": "lollipop"
+	},
+	{
+		"char": "🍯",
+		"keywords": "honey"
+	},
+	{
+		"char": "🥛",
+		"keywords": "milk, lactose"
+	},
+	{
+		"char": "🍵",
+		"keywords": "tea, matcha"
+	},
+	{
+		"char": "🍶",
+		"keywords": "sake"
+	},
+	{
+		"char": "🍾",
+		"keywords": "celebrate, champagne"
+	},
+	{
+		"char": "🍷",
+		"keywords": "wine, wines"
+	},
+	{
+		"char": "🍸",
+		"keywords": "alcohol, cocktail, gin, martini, bar"
+	},
+	{
+		"char": "🍹",
+		"keywords": "bar, cocktail"
+	},
+	{
+		"char": "🍽",
+		"keywords": "restaurant, meal, meals, dinner, lunch"
+	},
+	{
+		"char": "🍴",
+		"keywords": "cutlery, fork, forks, knifes, knife"
+	},
+	{
+		"char": "🥄",
+		"keywords": "spoon, spoons"
+	},
+	{
+		"char": "🌍",
+		"keywords": "africa, earth, europe, globe, world"
+	},
+	{
+		"char": "🌎",
+		"keywords": "america, americas, earth, globe, world"
+	},
+	{
+		"char": "🌏",
+		"keywords": "asia, australia, earth, globe, world"
+	},
+	{
+		"char": "🗺",
+		"keywords": "map"
+	},
+	{
+		"char": "🏔",
+		"keywords": "mountain, mountains, hike, mounteneering, altitude, altitudes, mount"
+	},
+	{
+		"char": "🏕",
+		"keywords": "camp, camping"
+	},
+	{
+		"char": "🏟",
+		"keywords": "stadium, match"
+	},
+	{
+		"char": "🏛",
+		"keywords": "classical, politic, politics, government, law"
+	},
+	{
+		"char": "🏠",
+		"keywords": "home, house, houses, homes"
+	},
+	{
+		"char": "🏢",
+		"keywords": "office, offices"
+	},
+	{
+		"char": "🏥",
+		"keywords": "hospital"
+	},
+	{
+		"char": "🏦",
+		"keywords": "bank"
+	},
+	{
+		"char": "🏨",
+		"keywords": "hotel"
+	},
+	{
+		"char": "🗼",
+		"keywords": "Tokyo, tokyo, tower"
+	},
+	{
+		"char": "🗽",
+		"keywords": "liberty , new york, New York, New, York"
+	},
+	{
+		"char": "🎡",
+		"keywords": "amusement, ferris"
+	},
+	{
+		"char": "🚂",
+		"keywords": "engine, locomotive, railway, train"
+	},
+	{
+		"char": "🚇",
+		"keywords": "metro, subway"
+	},
+	{
+		"char": "🚌",
+		"keywords": "bus, buses"
+	},
+	{
+		"char": "🚕",
+		"keywords": "taxi, cab, taxis, uber, lift"
+	},
+	{
+		"char": "🚗",
+		"keywords": "car, cars"
+	},
+	{
+		"char": "🚲",
+		"keywords": "bicycle, bikes, biking, biker, bike"
+	},
+	{
+		"char": "⛵",
+		"keywords": "boat, boats, sail, sailing, sailor, yacht"
+	},
+	{
+		"char": "⛴",
+		"keywords": "ferry"
+	},
+	{
+		"char": "🚁",
+		"keywords": "helicopter"
+	},
+	{
+		"char": "⏰",
+		"keywords": "alarm, clock, wake, clocks, timer, time"
+	},
+	{
+		"char": "🌙",
+		"keywords": "crescent, moon"
+	},
+	{
+		"char": "🌡",
+		"keywords": "thermometer, temperature"
+	},
+	{
+		"char": "☀",
+		"keywords": "sun, sunny, summer, Summer"
+	},
+	{
+		"char": "⭐",
+		"keywords": "star, stars"
+	},
+	{
+		"char": "🌟",
+		"keywords": "shine, shinny, glow"
+	},
+	{
+		"char": "⛅",
+		"keywords": "cloud, cloudy"
+	},
+	{
+		"char": "🌩",
+		"keywords": "lightning, storm, stormy"
+	},
+	{
+		"char": "🌀",
+		"keywords": "dizzy, confused"
+	},
+	{
+		"char": "🌈",
+		"keywords": "rainbow"
+	},
+	{
+		"char": "☔",
+		"keywords": "rain, raining, umbrella"
+	},
+	{
+		"char": "⚡",
+		"keywords": "energy, energetic, extroverted, amazing"
+	},
+	{
+		"char": "❄",
+		"keywords": "snow, snowing, winter, Winter, snowflake"
+	},
+	{
+		"char": "⛄",
+		"keywords": "cold, colder, snowman"
+	},
+	{
+		"char": "🔥",
+		"keywords": "fire, flame, hot"
+	},
+	{
+		"char": "💧",
+		"keywords": "drop, drops, water, droplet, sweat"
+	},
+	{
+		"char": "🌊",
+		"keywords": "ocean, sea, wave, waves"
+	},
+	{
+		"char": "🎃",
+		"keywords": "halloween, jack"
+	},
+	{
+		"char": "🎄",
+		"keywords": "christmas, Christmas"
+	},
+	{
+		"char": "🎆",
+		"keywords": "fireworks"
+	},
+	{
+		"char": "✨",
+		"keywords": "sparkle, sparkles, magic, magical, beautiful"
+	},
+	{
+		"char": "🎉",
+		"keywords": "celebration, celebrate, party, parties"
+	},
+	{
+		"char": "🎁",
+		"keywords": "gift, gifts, present, presents"
+	},
+	{
+		"char": "🎟",
+		"keywords": "admission, tickets, ticket"
+	},
+	{
+		"char": "🏆",
+		"keywords": "prize, prizes, trophy"
+	},
+	{
+		"char": "🥇",
+		"keywords": "win, winner"
+	},
+	{
+		"char": "⚽",
+		"keywords": "soccer"
+	},
+	{
+		"char": "⚾",
+		"keywords": "baseball"
+	},
+	{
+		"char": "🏀",
+		"keywords": "basketball, hoop"
+	},
+	{
+		"char": "🏐",
+		"keywords": "volleyball"
+	},
+	{
+		"char": "🏈",
+		"keywords": "football"
+	},
+	{
+		"char": "🎾",
+		"keywords": "tennis"
+	},
+	{
+		"char": "🎳",
+		"keywords": "bowling"
+	},
+	{
+		"char": "🔮",
+		"keywords": "crystal, future, predict, mistery"
+	},
+	{
+		"char": "🎮",
+		"keywords": "game, games, controller"
+	},
+	{
+		"char": "🎭",
+		"keywords": "mask, masks, performer, performing, theater, theatre"
+	},
+	{
+		"char": "🎨",
+		"keywords": "art, museum, painting, paint, palette"
+	},
+	{
+		"char": "🎵",
+		"keywords": "music, musician, musical, instrument, instruments, note, notes"
+	},
+	{
+		"char": "🎤",
+		"keywords": "microphone"
+	},
+	{
+		"char": "🎧",
+		"keywords": "headphone, headphones"
+	},
+	{
+		"char": "🎸",
+		"keywords": "guitar"
+	},
+	{
+		"no": 1010,
+		"codes": "1F3B9",
+		"char": "🎹",
+		"keywords": " keyboard, piano"
+	},
+	{
+		"char": "🥁",
+		"keywords": "drum, drumstick, drums"
+	},
+	{
+		"char": "📱",
+		"keywords": "mobile, smartphone, iphone, android"
+	},
+	{
+		"char": "📞",
+		"keywords": "telephone, phone, phones, call, callling, called"
+	},
+	{
+		"char": "🔋",
+		"keywords": "battery"
+	},
+	{
+		"char": "💻",
+		"keywords": "laptop, pc, mac, macbook"
+	},
+	{
+		"char": "🖥",
+		"keywords": "computer, desktop"
+	},
+	{
+		"char": "🖨",
+		"keywords": "print, printing, printer"
+	},
+	{
+		"char": "📸",
+		"keywords": "camera, picture, cameras, picture, photo, photos, photoshoot, flash"
+	},
+	{
+		"char": "🔍",
+		"keywords": "search, searching, google"
+	},
+	{
+		"char": "💡",
+		"keywords": "idea, ideas, light"
+	},
+	{
+		"char": "📚",
+		"keywords": "book, books"
+	},
+	{
+		"char": "📓",
+		"keywords": "notebook"
+	},
+	{
+		"no": 1089,
+		"codes": "270F",
+		"char": "✏",
+		"name": "pencil",
+		"keywords": "pencil, write, writing, written, sign, signature"
+	},
+	{
+		"char": "🔒",
+		"keywords": "closed, locked, protected, safe, security, secure"
+	},
+	{
+		"char": "🔑",
+		"keywords": "key, keys, keyword, password"
+	},
+	{
+		"char": "🔧",
+		"keywords": "fix, fixing, fixed"
+	},
+	{
+		"char": "🚽",
+		"keywords": "toilet, bathroom, restroom"
+	},
+	{
+		"char": "⛔",
+		"keywords": "busy"
+	},
+	{
+		"char": "🚫",
+		"keywords": "forbidden, prohibited, not"
+	},
+	{
+		"char": "🔀",
+		"keywords": "shuffle, mix"
+	},
+	{
+		"char": "🔁",
+		"keywords": "repeat, again"
+	},
+	{
+		"char": "🏳️‍🌈",
+		"keywords": "gay, gays, lgbt, lgbtq, queer, lesbian, lesbians"
+	},
+	{
+		"char": "🇦🇨",
+		"keywords": "Ascension Island"
+	},
+	{
+		"char": "🇦🇩",
+    "keywords": "lalal"
+	},
+	{
+		"char": "🇦🇪",
+		"keywords": "United Arab Emirates"
+	},
+	{
+		"char": "🇦🇫",
+		"keywords": "Afghanistan"
+	},
+	{
+		"char": "🇦🇬",
+		"keywords": "Antigua & Barbuda"
+	},
+	{
+		"char": "🇦🇮",
+		"keywords": "Anguilla"
+	},
+	{
+		"char": "🇦🇱",
+		"keywords": "Albania"
+	},
+	{
+		"char": "🇦🇲",
+		"keywords": "Armenia"
+	},
+	{
+		"char": "🇦🇴",
+		"keywords": "Angola"
+	},
+	{
+		"char": "🇦🇶",
+		"keywords": "Antarctica"
+	},
+	{
+		"char": "🇦🇷",
+		"keywords": "Argentina"
+	},
+	{
+		"char": "🇦🇸",
+		"keywords": "American Samoa"
+	},
+	{
+		"char": "🇦🇹",
+		"keywords": "Austria"
+	},
+	{
+		"char": "🇦🇺",
+		"keywords": "Australia"
+	},
+	{
+		"char": "🇦🇼",
+		"keywords": "Aruba"
+	},
+	{
+		"char": "🇦🇽",
+		"keywords": "Åland Islands"
+	},
+	{
+		"char": "🇦🇿",
+		"keywords": "Azerbaijan"
+	},
+	{
+		"char": "🇧🇦",
+		"keywords": "Bosnia & Herzegovina"
+
+	},
+	{
+		"char": "🇧🇧",
+		"keywords": "Barbados"
+	},
+	{
+		"char": "🇧🇩",
+		"keywords": "Bangladesh"
+	},
+	{
+		"char": "🇧🇪",
+		"keywords": "Belgium"
+	},
+	{
+		"char": "🇧🇫",
+		"keywords": "Burkina Faso"
+	},
+	{
+		"char": "🇧🇬",
+		"keywords": "Bulgaria"
+	},
+	{
+		"char": "🇧🇭",
+		"keywords": "Bahrain"
+	},
+	{
+		"char": "🇧🇮",
+		"keywords": "Burundi"
+	},
+	{
+		"char": "🇧🇯",
+		"keywords": "Benin"
+	},
+	{
+		"char": "🇧🇱",
+		"keywords": "St. Barthélemy"
+	},
+	{
+		"char": "🇧🇲",
+		"keywords": "Bermuda"
+	},
+	{
+		"char": "🇧🇳",
+		"keywords": "Brunei"
+	},
+	{
+		"char": "🇧🇴",
+		"keywords": "Bolivia"
+	},
+	{
+		"char": "🇧🇶",
+		"keywords": "Caribbean Netherlands"
+	},
+	{
+		"char": "🇧🇷",
+		"keywords": "Brazil"
+	}
+]
